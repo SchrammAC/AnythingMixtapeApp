@@ -1,0 +1,3168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="hip pop" />
+    <node id="neo soul" />
+    <node id="pop" />
+    <node id="r&amp;b" />
+    <node id="urban contemporary" />
+    <node id="bassline" />
+    <node id="dance pop" />
+    <node id="deep pop r&amp;b" />
+    <node id="new jack swing" />
+    <node id="pop rap" />
+    <node id="hip hop" />
+    <node id="rap" />
+    <node id="southern hip hop" />
+    <node id="trap music" />
+    <node id="quiet storm" />
+    <node id="alternative r&amp;b" />
+    <node id="indie r&amp;b" />
+    <node id="funk" />
+    <node id="soul" />
+    <node id="boy band" />
+    <node id="neo mellow" />
+    <node id="new orleans rap" />
+    <node id="atl hip hop" />
+    <node id="dirty south rap" />
+    <node id="edm" />
+    <node id="miami hip hop" />
+    <node id="permanent wave" />
+    <node id="pop rock" />
+    <node id="celtic rock" />
+    <node id="viral pop" />
+    <node id="piano rock" />
+    <node id="indie pop" />
+    <node id="indie poptimism" />
+    <node id="modern rock" />
+    <node id="pop punk" />
+    <node id="dfw rap" />
+    <node id="canadian contemporary r&amp;b" />
+    <node id="canadian pop" />
+    <node id="uk contemporary r&amp;b" />
+    <node id="indie pop rap" />
+    <node id="cali rap" />
+    <node id="east coast hip hop" />
+    <node id="indie rock" />
+    <node id="rock" />
+    <node id="indietronica" />
+    <node id="baroque pop" />
+    <node id="chamber pop" />
+    <node id="rawstyle" />
+    <node id="uk alternative pop" />
+    <node id="indie folk" />
+    <node id="contemporary country" />
+    <node id="country" />
+    <node id="country dawn" />
+    <node id="indonesian jazz" />
+    <node id="electropop" />
+    <node id="uk pop" />
+    <node id="escape room" />
+    <node id="minnesota hip hop" />
+    <node id="trap queen" />
+    <node id="etherpop" />
+    <node id="bachata" />
+    <node id="latin" />
+    <node id="latin pop" />
+    <node id="tropical" />
+    <node id="philly rap" />
+    <node id="tropical house" />
+    <node id="latin hip hop" />
+    <node id="reggaeton" />
+    <node id="metropopolis" />
+    <node id="gangster rap" />
+    <node id="australian pop" />
+    <node id="crunk" />
+    <node id="g funk" />
+    <node id="west coast rap" />
+    <node id="deep southern trap" />
+    <node id="chicago rap" />
+    <node id="conscious hip hop" />
+    <node id="atl trap" />
+    <node id="canadian hip hop" />
+    <node id="toronto rap" />
+    <node id="nc hip hop" />
+    <node id="dmv rap" />
+    <node id="florida rap" />
+    <node id="vapor trap" />
+    <node id="drill" />
+    <node id="underground hip hop" />
+    <node id="alternative rock" />
+    <node id="old school hip hop" />
+    <node id="emo rap" />
+    <node id="stomp and holler" />
+    <node id="uk americana" />
+    <node id="country pop" />
+    <node id="country road" />
+    <node id="jam band" />
+    <node id="modern country rock" />
+    <node id="redneck" />
+    <node id="hollywood" />
+    <node id="country rock" />
+    <node id="outlaw country" />
+    <node id="red dirt" />
+    <node id="texas country" />
+    <node id="traditional country" />
+    <node id="country gospel" />
+    <node id="nashville sound" />
+    <node id="australian country" />
+    <node id="deep talent show" />
+    <node id="modern southern rock" />
+    <node id="heartland rock" />
+    <node id="bluegrass" />
+    <node id="folk" />
+    <node id="lilith" />
+    <node id="progressive bluegrass" />
+    <node id="folk rock" />
+    <node id="melancholia" />
+    <node id="mellow gold" />
+    <node id="alaska indie" />
+    <node id="alternative dance" />
+    <node id="canadian indie" />
+    <node id="garage rock" />
+    <node id="new rave" />
+    <node id="quebec indie" />
+    <node id="art rock" />
+    <node id="oxford indie" />
+    <node id="alternative metal" />
+    <node id="funk metal" />
+    <node id="washington indie" />
+    <node id="nu metal" />
+    <node id="rap rock" />
+    <node id="album rock" />
+    <node id="classic rock" />
+    <node id="hard rock" />
+    <node id="psychedelic rock" />
+    <node id="roots rock" />
+    <node id="soft rock" />
+    <node id="progressive rock" />
+    <node id="symphonic rock" />
+    <node id="yacht rock" />
+    <node id="southern rock" />
+    <node id="glam metal" />
+    <node id="metal" />
+    <node id="old school thrash" />
+    <node id="speed metal" />
+    <node id="thrash metal" />
+    <node id="glam rock" />
+    <node id="modern blues rock" />
+    <node id="punk blues" />
+    <node id="south african rock" />
+    <node id="groove metal" />
+    <node id="la indie" />
+    <node id="modern alternative rock" />
+    <node id="stomp pop" />
+    <node id="british invasion" />
+    <node id="merseybeat" />
+    <node id="modern hard rock" />
+    <node id="rap metal" />
+    <node id="alternative hip hop" />
+    <node id="art pop" />
+    <node id="chicago hardcore" />
+    <node id="chicago punk" />
+    <node id="hardcore punk" />
+    <node id="punk" />
+    <node id="christian alternative rock" />
+    <node id="christian music" />
+    <node id="christian rock" />
+    <node id="screamo" />
+    <node id="canadian metal" />
+    <node id="canadian rock" />
+    <node id="wrestling" />
+    <node id="socal pop punk" />
+    <node id="freak folk" />
+    <node id="seattle indie" />
+    <node id="emo" />
+    <node id="eau claire indie" />
+    <node id="slow core" />
+    <node id="ccm" />
+    <node id="worship" />
+    <node id="brostep" />
+    <node id="egyptian pop" />
+    <node id="progressive electro house" />
+    <node id="trap latino" />
+    <edge source="hip pop" target="neo soul">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="hip pop" target="pop">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="hip pop" target="r&amp;b">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="hip pop" target="urban contemporary">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="hip pop" target="bassline">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip pop" target="dance pop">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="hip pop" target="deep pop r&amp;b">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="hip pop" target="new jack swing">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="hip pop" target="pop rap">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="hip pop" target="hip hop">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="hip pop" target="rap">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="hip pop" target="southern hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip pop" target="trap music">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip pop" target="quiet storm">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="hip pop" target="alternative r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip pop" target="indie r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip pop" target="funk">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hip pop" target="soul">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hip pop" target="boy band">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo soul" target="pop">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="neo soul" target="r&amp;b">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="neo soul" target="urban contemporary">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="neo soul" target="bassline">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo soul" target="dance pop">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="neo soul" target="deep pop r&amp;b">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="neo soul" target="new jack swing">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="neo soul" target="pop rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="neo soul" target="hip hop">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="neo soul" target="quiet storm">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="neo soul" target="alternative r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo soul" target="indie r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo soul" target="funk">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="neo soul" target="soul">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="neo soul" target="neo mellow">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="r&amp;b">
+      <data key="d0">30.0</data>
+    </edge>
+    <edge source="pop" target="urban contemporary">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="pop" target="dance pop">
+      <data key="d0">45.0</data>
+    </edge>
+    <edge source="pop" target="deep pop r&amp;b">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="pop" target="pop rap">
+      <data key="d0">37.0</data>
+    </edge>
+    <edge source="pop" target="hip hop">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="pop" target="new orleans rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop" target="rap">
+      <data key="d0">33.0</data>
+    </edge>
+    <edge source="pop" target="trap music">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="pop" target="southern hip hop">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="pop" target="atl hip hop">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="pop" target="alternative r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="indie r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="dirty south rap">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pop" target="edm">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop" target="miami hip hop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop" target="neo mellow">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="pop" target="new jack swing">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="permanent wave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="pop rock">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="pop" target="celtic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="viral pop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop" target="piano rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="indie pop">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pop" target="indie poptimism">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pop" target="modern rock">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="pop" target="pop punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="dfw rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="canadian contemporary r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="canadian pop">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pop" target="uk contemporary r&amp;b">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop" target="indie pop rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="cali rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="east coast hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="indie rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="indietronica">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="baroque pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="chamber pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="rawstyle">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="uk alternative pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="indie folk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="contemporary country">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="pop" target="country">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="pop" target="country dawn">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop" target="indonesian jazz">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop" target="electropop">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pop" target="boy band">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop" target="uk pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="escape room">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="minnesota hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="trap queen">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop" target="etherpop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="bachata">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="latin">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop" target="latin pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="tropical">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop" target="philly rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="tropical house">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop" target="latin hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="reggaeton">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop" target="metropopolis">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="r&amp;b" target="urban contemporary">
+      <data key="d0">27.0</data>
+    </edge>
+    <edge source="r&amp;b" target="bassline">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="r&amp;b" target="dance pop">
+      <data key="d0">24.0</data>
+    </edge>
+    <edge source="r&amp;b" target="deep pop r&amp;b">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="r&amp;b" target="new jack swing">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="r&amp;b" target="pop rap">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="r&amp;b" target="hip hop">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="r&amp;b" target="dirty south rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="r&amp;b" target="gangster rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="r&amp;b" target="miami hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="r&amp;b" target="rap">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="r&amp;b" target="southern hip hop">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="r&amp;b" target="trap music">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="r&amp;b" target="atl hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="r&amp;b" target="quiet storm">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="r&amp;b" target="alternative r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="r&amp;b" target="indie r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="r&amp;b" target="funk">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="r&amp;b" target="soul">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="r&amp;b" target="neo mellow">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="r&amp;b" target="boy band">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="r&amp;b" target="uk contemporary r&amp;b">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="r&amp;b" target="trap queen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="urban contemporary" target="bassline">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="urban contemporary" target="dance pop">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="urban contemporary" target="deep pop r&amp;b">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="urban contemporary" target="new jack swing">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="urban contemporary" target="pop rap">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="urban contemporary" target="hip hop">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="urban contemporary" target="rap">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="urban contemporary" target="southern hip hop">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="urban contemporary" target="trap music">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="urban contemporary" target="atl hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="urban contemporary" target="quiet storm">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="urban contemporary" target="alternative r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="urban contemporary" target="indie r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="urban contemporary" target="funk">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="urban contemporary" target="soul">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="urban contemporary" target="neo mellow">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="urban contemporary" target="boy band">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bassline" target="dance pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bassline" target="deep pop r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bassline" target="new jack swing">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bassline" target="pop rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="deep pop r&amp;b">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="dance pop" target="new jack swing">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="dance pop" target="pop rap">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="dance pop" target="hip hop">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="dance pop" target="rap">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="dance pop" target="southern hip hop">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="dance pop" target="trap music">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="dance pop" target="atl hip hop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="dance pop" target="quiet storm">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="dance pop" target="alternative r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="indie r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="dirty south rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="edm">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="miami hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="australian pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="contemporary country">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="dance pop" target="country">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="dance pop" target="country dawn">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="dance pop" target="pop rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="dance pop" target="celtic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="neo mellow">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="dance pop" target="viral pop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="dance pop" target="piano rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="baroque pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="chamber pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="rawstyle">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="uk alternative pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="boy band">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="dance pop" target="canadian pop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="dance pop" target="escape room">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="minnesota hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="trap queen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="electropop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="etherpop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dance pop" target="indie poptimism">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="deep pop r&amp;b" target="new jack swing">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="deep pop r&amp;b" target="pop rap">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="deep pop r&amp;b" target="hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="deep pop r&amp;b" target="rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="deep pop r&amp;b" target="southern hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="deep pop r&amp;b" target="trap music">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="deep pop r&amp;b" target="alternative r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="deep pop r&amp;b" target="indie r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="deep pop r&amp;b" target="boy band">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="new jack swing" target="pop rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="new jack swing" target="quiet storm">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="new jack swing" target="hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="hip hop">
+      <data key="d0">31.0</data>
+    </edge>
+    <edge source="pop rap" target="new orleans rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop rap" target="rap">
+      <data key="d0">49.0</data>
+    </edge>
+    <edge source="pop rap" target="trap music">
+      <data key="d0">33.0</data>
+    </edge>
+    <edge source="pop rap" target="dirty south rap">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="pop rap" target="gangster rap">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="pop rap" target="miami hip hop">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="pop rap" target="southern hip hop">
+      <data key="d0">25.0</data>
+    </edge>
+    <edge source="pop rap" target="atl hip hop">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="pop rap" target="crunk">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pop rap" target="g funk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="west coast rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop rap" target="deep southern trap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop rap" target="chicago rap">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="pop rap" target="conscious hip hop">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="pop rap" target="edm">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="atl trap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="neo mellow">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="piano rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="pop rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="canadian hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="canadian pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="toronto rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="nc hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="indie pop rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="dmv rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="florida rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="vapor trap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop rap" target="east coast hip hop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop rap" target="cali rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="drill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="underground hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rap" target="philly rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="new orleans rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hip hop" target="rap">
+      <data key="d0">33.0</data>
+    </edge>
+    <edge source="hip hop" target="trap music">
+      <data key="d0">21.0</data>
+    </edge>
+    <edge source="hip hop" target="dirty south rap">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="hip hop" target="gangster rap">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="hip hop" target="miami hip hop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hip hop" target="southern hip hop">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="hip hop" target="atl hip hop">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="hip hop" target="crunk">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="hip hop" target="g funk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="west coast rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hip hop" target="deep southern trap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="funk">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hip hop" target="soul">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hip hop" target="chicago rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="conscious hip hop">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="hip hop" target="quiet storm">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="alternative rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="east coast hip hop">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="hip hop" target="old school hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="canadian hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="canadian pop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hip hop" target="toronto rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="canadian contemporary r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="indie pop rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="dmv rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="cali rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hip hop" target="philly rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="new orleans rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rap" target="trap music">
+      <data key="d0">42.0</data>
+    </edge>
+    <edge source="rap" target="dirty south rap">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="rap" target="gangster rap">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="rap" target="miami hip hop">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="rap" target="southern hip hop">
+      <data key="d0">25.0</data>
+    </edge>
+    <edge source="rap" target="atl hip hop">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="rap" target="crunk">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="rap" target="g funk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="west coast rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rap" target="deep southern trap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rap" target="chicago rap">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="rap" target="conscious hip hop">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="rap" target="atl trap">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="rap" target="alternative rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="east coast hip hop">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="rap" target="old school hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="canadian hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="canadian pop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rap" target="toronto rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="dfw rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="canadian contemporary r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="nc hip hop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rap" target="indie pop rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="philly rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rap" target="dmv rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="florida rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="vapor trap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rap" target="cali rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="drill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap" target="underground hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="southern hip hop" target="trap music">
+      <data key="d0">25.0</data>
+    </edge>
+    <edge source="southern hip hop" target="dirty south rap">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="southern hip hop" target="gangster rap">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="southern hip hop" target="miami hip hop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="southern hip hop" target="atl hip hop">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="southern hip hop" target="crunk">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="southern hip hop" target="deep southern trap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="southern hip hop" target="chicago rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="southern hip hop" target="conscious hip hop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="southern hip hop" target="atl trap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="southern hip hop" target="vapor trap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="southern hip hop" target="cali rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="southern hip hop" target="drill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="southern hip hop" target="underground hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="southern hip hop" target="philly rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="trap music" target="new orleans rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="trap music" target="dirty south rap">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="trap music" target="gangster rap">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="trap music" target="miami hip hop">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="trap music" target="atl hip hop">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="trap music" target="crunk">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="trap music" target="deep southern trap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="trap music" target="conscious hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="trap music" target="atl trap">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="trap music" target="chicago rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="trap music" target="emo rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="trap music" target="philly rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="trap music" target="florida rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="trap music" target="vapor trap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="trap music" target="cali rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="trap music" target="drill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="trap music" target="underground hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="trap music" target="east coast hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="trap music" target="nc hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="quiet storm" target="funk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="quiet storm" target="soul">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative r&amp;b" target="indie r&amp;b">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="funk" target="soul">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="neo mellow" target="modern rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="neo mellow" target="stomp and holler">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="uk americana">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="pop rock">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="neo mellow" target="celtic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="viral pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="piano rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="indie pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="indie poptimism">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="pop punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="contemporary country">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="country">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="country dawn">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="country pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="country road">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="jam band">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="neo mellow" target="indie folk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="atl hip hop" target="dirty south rap">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="atl hip hop" target="gangster rap">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="atl hip hop" target="crunk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="atl hip hop" target="atl trap">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="atl hip hop" target="deep southern trap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dirty south rap" target="gangster rap">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="dirty south rap" target="miami hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dirty south rap" target="crunk">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="dirty south rap" target="deep southern trap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="dirty south rap" target="conscious hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dirty south rap" target="atl trap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="edm" target="miami hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="edm" target="electropop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="edm" target="tropical house">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="miami hip hop" target="gangster rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="miami hip hop" target="emo rap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="miami hip hop" target="florida rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="lilith">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="alaska indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="pop rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="permanent wave" target="alternative dance">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="alternative rock">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="permanent wave" target="baroque pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="canadian indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="chamber pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="garage rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="indie folk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="indie pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="indie rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="indietronica">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="modern rock">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="permanent wave" target="new rave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="rock">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="permanent wave" target="art rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="melancholia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="oxford indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="piano rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="heartland rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="mellow gold">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="pop punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="alternative metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="permanent wave" target="funk metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="contemporary country">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pop rock" target="country">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pop rock" target="country road">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop rock" target="modern country rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="lilith">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="country dawn">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pop rock" target="alaska indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="australian pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="celtic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="viral pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="piano rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="indie pop">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="pop rock" target="indie poptimism">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop rock" target="modern rock">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="pop rock" target="pop punk">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pop rock" target="indie folk">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop rock" target="indie rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop rock" target="stomp and holler">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop rock" target="washington indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="alternative metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop rock" target="alternative rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pop rock" target="funk metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="nu metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop rock" target="rap rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pop rock" target="baroque pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="chamber pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="album rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="classic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="folk rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="hard rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="heartland rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="mellow gold">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="psychedelic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="roots rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="soft rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="indietronica">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop rock" target="jam band">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="celtic rock" target="viral pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="viral pop" target="canadian pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="piano rock" target="mellow gold">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="piano rock" target="rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="piano rock" target="modern rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="piano rock" target="glam rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="piano rock" target="soft rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie pop" target="rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="indie pop" target="modern rock">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="indie pop" target="stomp and holler">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="indie pop" target="alternative rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="indie pop" target="garage rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="indie pop" target="indie rock">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="indie pop" target="punk blues">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie pop" target="pop punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie pop" target="indie poptimism">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="indie pop" target="indie folk">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="indie pop" target="washington indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie pop" target="alternative dance">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie pop" target="baroque pop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="indie pop" target="canadian indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie pop" target="chamber pop">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="indie pop" target="indietronica">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="indie pop" target="new rave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie pop" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie pop" target="eau claire indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie pop" target="melancholia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie pop" target="slow core">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie pop" target="freak folk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie pop" target="seattle indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie poptimism" target="modern rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="indie poptimism" target="pop punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie poptimism" target="indietronica">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie poptimism" target="electropop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie poptimism" target="etherpop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="art rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="rock">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="modern rock" target="uk americana">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="alternative metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="modern rock" target="nu metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="stomp and holler">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="modern rock" target="alternative rock">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="modern rock" target="garage rock">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="modern rock" target="indie rock">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="modern rock" target="modern blues rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="modern rock" target="punk blues">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="modern rock" target="pop punk">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="modern rock" target="indie folk">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="modern rock" target="washington indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="socal pop punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="funk metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="rap rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="alternative dance">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="baroque pop">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="modern rock" target="canadian indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="chamber pop">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="modern rock" target="indietronica">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="modern rock" target="new rave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="la indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="modern alternative rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="stomp pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="melancholia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="oxford indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="freak folk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="seattle indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="emo">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="modern rock" target="metropopolis">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern rock" target="tropical house">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop punk" target="rock">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="pop punk" target="alternative metal">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="pop punk" target="nu metal">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="pop punk" target="alternative rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop punk" target="rap rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop punk" target="chicago hardcore">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop punk" target="chicago punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop punk" target="hardcore punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop punk" target="punk">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="pop punk" target="emo">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="pop punk" target="socal pop punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop punk" target="rap metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop punk" target="screamo">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop punk" target="canadian metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop punk" target="canadian rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="pop punk" target="baroque pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canadian contemporary r&amp;b" target="canadian pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canadian pop" target="canadian hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canadian pop" target="toronto rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="east coast hip hop" target="gangster rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="east coast hip hop" target="rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="east coast hip hop" target="alternative rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="east coast hip hop" target="old school hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie rock" target="rock">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="indie rock" target="stomp and holler">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="indie rock" target="alternative rock">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="indie rock" target="garage rock">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="indie rock" target="modern blues rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="indie rock" target="punk blues">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="indie rock" target="indie folk">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="indie rock" target="washington indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie rock" target="alternative dance">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie rock" target="baroque pop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="indie rock" target="canadian indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie rock" target="chamber pop">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="indie rock" target="indietronica">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie rock" target="new rave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie rock" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie rock" target="freak folk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie rock" target="seattle indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="folk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="album rock">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="rock" target="art rock">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="rock" target="classic rock">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="rock" target="hard rock">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="rock" target="mellow gold">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="rock" target="progressive rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="rock" target="roots rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="rock" target="symphonic rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="rock" target="uk americana">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="alternative metal">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="rock" target="nu metal">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="rock" target="alternative rock">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="rock" target="garage rock">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="rock" target="modern blues rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="rock" target="punk blues">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rock" target="rap rock">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="rock" target="south african rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="old school hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="funk metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rock" target="groove metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rock" target="alternative dance">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="baroque pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="canadian indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="chamber pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="indie folk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="indietronica">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="new rave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="la indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="modern alternative rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="stomp pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="melancholia">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rock" target="oxford indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="heartland rock">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="rock" target="british invasion">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="merseybeat">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="psychedelic rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="rock" target="modern hard rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="metal">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="rock" target="old school thrash">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rock" target="speed metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rock" target="thrash metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rock" target="soft rock">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="rock" target="yacht rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rock" target="folk rock">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="rock" target="glam metal">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="rock" target="southern rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="rock" target="rap metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="country rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="alternative hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="art pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rock" target="glam rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="indietronica" target="alternative rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indietronica" target="garage rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indietronica" target="indie folk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indietronica" target="alternative dance">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indietronica" target="baroque pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indietronica" target="canadian indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indietronica" target="chamber pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indietronica" target="new rave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indietronica" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="baroque pop" target="stomp and holler">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="baroque pop" target="alternative rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="baroque pop" target="garage rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="baroque pop" target="emo">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="baroque pop" target="indie folk">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="baroque pop" target="alternative dance">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="baroque pop" target="canadian indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="baroque pop" target="chamber pop">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="baroque pop" target="new rave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="baroque pop" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="baroque pop" target="rawstyle">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="baroque pop" target="uk alternative pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chamber pop" target="stomp and holler">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="chamber pop" target="alternative rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="chamber pop" target="garage rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chamber pop" target="indie folk">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="chamber pop" target="alternative dance">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chamber pop" target="canadian indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chamber pop" target="new rave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chamber pop" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chamber pop" target="eau claire indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chamber pop" target="melancholia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chamber pop" target="slow core">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chamber pop" target="freak folk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chamber pop" target="seattle indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chamber pop" target="rawstyle">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chamber pop" target="uk alternative pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rawstyle" target="uk alternative pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie folk" target="stomp and holler">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="indie folk" target="alternative rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="indie folk" target="garage rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie folk" target="washington indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie folk" target="alternative dance">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie folk" target="canadian indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie folk" target="new rave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie folk" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie folk" target="eau claire indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie folk" target="melancholia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie folk" target="slow core">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie folk" target="freak folk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="indie folk" target="seattle indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="contemporary country" target="country">
+      <data key="d0">62.0</data>
+    </edge>
+    <edge source="contemporary country" target="country road">
+      <data key="d0">65.0</data>
+    </edge>
+    <edge source="contemporary country" target="modern country rock">
+      <data key="d0">41.0</data>
+    </edge>
+    <edge source="contemporary country" target="redneck">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="contemporary country" target="country dawn">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="contemporary country" target="hollywood">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="contemporary country" target="country pop">
+      <data key="d0">15.0</data>
+    </edge>
+    <edge source="contemporary country" target="country rock">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="contemporary country" target="outlaw country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="contemporary country" target="red dirt">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="contemporary country" target="texas country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="contemporary country" target="traditional country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="contemporary country" target="country gospel">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="contemporary country" target="australian pop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="contemporary country" target="nashville sound">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="contemporary country" target="australian country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="contemporary country" target="indonesian jazz">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="contemporary country" target="deep talent show">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="contemporary country" target="modern southern rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="contemporary country" target="heartland rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country" target="country road">
+      <data key="d0">54.0</data>
+    </edge>
+    <edge source="country" target="modern country rock">
+      <data key="d0">36.0</data>
+    </edge>
+    <edge source="country" target="redneck">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="country" target="country dawn">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="country" target="hollywood">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country" target="country pop">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="country" target="country rock">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="country" target="outlaw country">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="country" target="red dirt">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="country" target="texas country">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="country" target="traditional country">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="country" target="country gospel">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="country" target="australian pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country" target="nashville sound">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="country" target="australian country">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country" target="indonesian jazz">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="country" target="modern southern rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country dawn" target="country road">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="country dawn" target="modern country rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="country dawn" target="hollywood">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country dawn" target="country gospel">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="country dawn" target="australian pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country dawn" target="country pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country dawn" target="nashville sound">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="electropop" target="etherpop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="electropop" target="tropical house">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="escape room" target="minnesota hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="escape room" target="trap queen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="minnesota hip hop" target="trap queen">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bachata" target="latin">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bachata" target="latin pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bachata" target="tropical">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="latin" target="latin pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="latin" target="tropical">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="latin" target="latin hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="latin" target="reggaeton">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="latin pop" target="tropical">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="tropical" target="latin hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="tropical" target="reggaeton">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="tropical house" target="metropopolis">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="latin hip hop" target="reggaeton">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="reggaeton" target="trap latino">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gangster rap" target="crunk">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="gangster rap" target="g funk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gangster rap" target="west coast rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gangster rap" target="deep southern trap">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="gangster rap" target="chicago rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="gangster rap" target="conscious hip hop">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="gangster rap" target="atl trap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="australian pop" target="country pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="australian pop" target="australian country">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="crunk" target="deep southern trap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="crunk" target="conscious hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="g funk" target="west coast rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="west coast rap" target="conscious hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="deep southern trap" target="atl trap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chicago rap" target="conscious hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chicago rap" target="drill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chicago rap" target="underground hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chicago rap" target="vapor trap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="conscious hip hop" target="nc hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="conscious hip hop" target="dmv rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canadian hip hop" target="toronto rap">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="vapor trap" target="drill">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="vapor trap" target="underground hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="drill" target="underground hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative rock" target="art rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative rock" target="alternative metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="alternative rock" target="nu metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative rock" target="stomp and holler">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative rock" target="garage rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="alternative rock" target="modern blues rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="alternative rock" target="punk blues">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative rock" target="old school hip hop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative rock" target="funk metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="alternative rock" target="rap rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative rock" target="alternative dance">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative rock" target="canadian indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative rock" target="new rave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative rock" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative rock" target="melancholia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative rock" target="oxford indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="stomp and holler" target="uk americana">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="stomp and holler" target="washington indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="stomp and holler" target="eau claire indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="stomp and holler" target="melancholia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="stomp and holler" target="slow core">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="stomp and holler" target="freak folk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="stomp and holler" target="seattle indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="uk americana" target="album rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="uk americana" target="art rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="uk americana" target="classic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="uk americana" target="hard rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="uk americana" target="mellow gold">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="uk americana" target="progressive rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="uk americana" target="roots rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="uk americana" target="symphonic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country pop" target="country road">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="country pop" target="modern country rock">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="country pop" target="heartland rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country pop" target="australian country">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country road" target="modern country rock">
+      <data key="d0">40.0</data>
+    </edge>
+    <edge source="country road" target="redneck">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="country road" target="country rock">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="country road" target="outlaw country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="country road" target="red dirt">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="country road" target="texas country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="country road" target="traditional country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="country road" target="country gospel">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country road" target="australian country">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country road" target="deep talent show">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="country road" target="modern southern rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern country rock" target="redneck">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="modern country rock" target="country rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="modern country rock" target="outlaw country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="modern country rock" target="red dirt">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="modern country rock" target="texas country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="modern country rock" target="traditional country">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern country rock" target="australian country">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern country rock" target="modern southern rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="redneck" target="country rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="redneck" target="outlaw country">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="redneck" target="red dirt">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="redneck" target="texas country">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="redneck" target="traditional country">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country rock" target="album rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country rock" target="classic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country rock" target="hard rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country rock" target="mellow gold">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country rock" target="outlaw country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="country rock" target="red dirt">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="country rock" target="texas country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="country rock" target="traditional country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="country rock" target="southern rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country rock" target="nashville sound">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="outlaw country" target="red dirt">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="outlaw country" target="texas country">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="outlaw country" target="traditional country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="outlaw country" target="nashville sound">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="red dirt" target="texas country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="red dirt" target="traditional country">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="texas country" target="traditional country">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="texas country" target="nashville sound">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="traditional country" target="nashville sound">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="country gospel" target="nashville sound">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="heartland rock" target="album rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="heartland rock" target="classic rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="heartland rock" target="hard rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="heartland rock" target="mellow gold">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="heartland rock" target="roots rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="heartland rock" target="folk rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="heartland rock" target="psychedelic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="heartland rock" target="soft rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="heartland rock" target="southern rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="heartland rock" target="yacht rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bluegrass" target="folk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bluegrass" target="lilith">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="bluegrass" target="progressive bluegrass">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="folk" target="lilith">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="folk" target="progressive bluegrass">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="folk" target="folk rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="folk" target="melancholia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="folk" target="mellow gold">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="lilith" target="progressive bluegrass">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="lilith" target="alaska indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="folk rock" target="album rock">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="folk rock" target="art rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="folk rock" target="classic rock">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="folk rock" target="hard rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="folk rock" target="mellow gold">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="folk rock" target="roots rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="folk rock" target="melancholia">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="folk rock" target="psychedelic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="folk rock" target="soft rock">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="folk rock" target="yacht rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="folk rock" target="southern rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="melancholia" target="art rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="melancholia" target="mellow gold">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="melancholia" target="oxford indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="melancholia" target="eau claire indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="melancholia" target="slow core">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="mellow gold" target="album rock">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="mellow gold" target="art rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="mellow gold" target="classic rock">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="mellow gold" target="hard rock">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="mellow gold" target="progressive rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="mellow gold" target="roots rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="mellow gold" target="symphonic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="mellow gold" target="soft rock">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="mellow gold" target="yacht rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="mellow gold" target="psychedelic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="mellow gold" target="southern rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="mellow gold" target="glam rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative dance" target="garage rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative dance" target="canadian indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative dance" target="new rave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative dance" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canadian indie" target="garage rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canadian indie" target="new rave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canadian indie" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="garage rock" target="modern blues rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="garage rock" target="punk blues">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="garage rock" target="new rave">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="garage rock" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="new rave" target="quebec indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="art rock" target="album rock">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="art rock" target="classic rock">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="art rock" target="hard rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="art rock" target="progressive rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="art rock" target="roots rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="art rock" target="symphonic rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="art rock" target="oxford indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="art rock" target="soft rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="art rock" target="psychedelic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative metal" target="nu metal">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="alternative metal" target="rap rock">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="alternative metal" target="south african rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative metal" target="chicago hardcore">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative metal" target="chicago punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative metal" target="hardcore punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative metal" target="punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative metal" target="christian alternative rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative metal" target="christian music">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative metal" target="christian rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="alternative metal" target="funk metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative metal" target="groove metal">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="alternative metal" target="rap metal">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="alternative metal" target="screamo">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative metal" target="canadian metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="alternative metal" target="canadian rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="alternative metal" target="wrestling">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative metal" target="metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="funk metal" target="nu metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="funk metal" target="rap rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="nu metal" target="rap rock">
+      <data key="d0">12.0</data>
+    </edge>
+    <edge source="nu metal" target="south african rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="nu metal" target="chicago hardcore">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="nu metal" target="chicago punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="nu metal" target="hardcore punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="nu metal" target="punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="nu metal" target="christian alternative rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="nu metal" target="christian music">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="nu metal" target="christian rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="nu metal" target="groove metal">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="nu metal" target="rap metal">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="nu metal" target="screamo">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="nu metal" target="canadian metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="nu metal" target="canadian rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="nu metal" target="wrestling">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap rock" target="south african rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap rock" target="chicago hardcore">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap rock" target="chicago punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap rock" target="hardcore punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap rock" target="punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap rock" target="christian alternative rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap rock" target="christian music">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap rock" target="christian rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rap rock" target="groove metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rap rock" target="rap metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="rap rock" target="screamo">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap rock" target="canadian metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap rock" target="canadian rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap rock" target="wrestling">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="album rock" target="classic rock">
+      <data key="d0">11.0</data>
+    </edge>
+    <edge source="album rock" target="hard rock">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="album rock" target="progressive rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="album rock" target="roots rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="album rock" target="symphonic rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="album rock" target="soft rock">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="album rock" target="yacht rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="album rock" target="psychedelic rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="album rock" target="southern rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="album rock" target="glam metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="album rock" target="metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="classic rock" target="hard rock">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="classic rock" target="progressive rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="classic rock" target="roots rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="classic rock" target="symphonic rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="classic rock" target="soft rock">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="classic rock" target="yacht rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="classic rock" target="psychedelic rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="classic rock" target="southern rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="hard rock" target="progressive rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hard rock" target="roots rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hard rock" target="symphonic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hard rock" target="metal">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="hard rock" target="old school thrash">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hard rock" target="speed metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hard rock" target="thrash metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hard rock" target="psychedelic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hard rock" target="soft rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="hard rock" target="glam metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="hard rock" target="southern rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="psychedelic rock" target="progressive rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychedelic rock" target="roots rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychedelic rock" target="symphonic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychedelic rock" target="british invasion">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychedelic rock" target="merseybeat">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="psychedelic rock" target="soft rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="roots rock" target="progressive rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="roots rock" target="symphonic rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="roots rock" target="soft rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="roots rock" target="southern rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="soft rock" target="yacht rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="soft rock" target="southern rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="soft rock" target="glam rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="progressive rock" target="symphonic rock">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="glam metal" target="metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="metal" target="old school thrash">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="metal" target="speed metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="metal" target="thrash metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="old school thrash" target="speed metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="old school thrash" target="thrash metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="speed metal" target="thrash metal">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="modern blues rock" target="punk blues">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern blues rock" target="modern hard rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="groove metal" target="rap metal">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="la indie" target="modern alternative rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="la indie" target="stomp pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="modern alternative rock" target="stomp pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="british invasion" target="merseybeat">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="rap metal" target="screamo">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="alternative hip hop" target="art pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chicago hardcore" target="chicago punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chicago hardcore" target="hardcore punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chicago hardcore" target="punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chicago punk" target="hardcore punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="chicago punk" target="punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="hardcore punk" target="punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="punk" target="socal pop punk">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="christian alternative rock" target="christian music">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="christian alternative rock" target="christian rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="christian music" target="christian rock">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="christian music" target="ccm">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="christian music" target="worship">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canadian metal" target="canadian rock">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="canadian metal" target="wrestling">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="canadian rock" target="wrestling">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="freak folk" target="seattle indie">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="eau claire indie" target="slow core">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ccm" target="worship">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="brostep" target="egyptian pop">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="brostep" target="progressive electro house">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="egyptian pop" target="progressive electro house">
+      <data key="d0">1.0</data>
+    </edge>
+  </graph>
+</graphml>
